@@ -5,8 +5,10 @@
 * Enhanced Pad bank (octaves, colors)
 
 ## Functionality at-a-glance
-* Keys, Wheels, and Octave Transpose work as usual
+* Note Keys, Wheels, and Octave Transpose work as usual
+* Strong support for Remote Controls on Devices (pads, knobs, faders; device/page navigation; indications)
 * Soft-takeover for Faders/Knobs on Remote Control pages and User Controls
+* Transposing the Pads!
 * Visual notifications for most buttons/adjustments
 
 ### Faders
